@@ -47,5 +47,5 @@ research: i.e. Making it possible for a user to mark an item as "Available for D
 for a user to "follow" another user's collections.
 
 ### Project Tracker
-[Wireframe Link](https://noah510741.invisionapp.com/freehand/Untitled-HkW5WkL8i?inviteToken=871180-4c4837af6c31324c045d931c0749f12f&dsid_h=6a89998e2a1cf79cd9df255d32eb324137873940126469541067bac9192f31cf)
+[Wireframe Link](https://noah510741.invisionapp.com/freehand/Untitled-HkW5WkL8i?dsid_h=9242ba6f476432ceb7f53373278f837eb2859f0919a801b16e4f5accf810fedb&uid_h=c8632b7c9b3bc7761cd570441d020c386d4e2df28b417b4d2fecdb9e0d9a9875)
 [Trello Link](https://trello.com/b/soben9IU/lasersharksliftoff)
