@@ -38,6 +38,8 @@ Java
 Spring Boot
 MySQL
 Thymeleaf templates
+Hybernate
+JavaScript
 Bootstrap
 HTML/CSS
 API 
